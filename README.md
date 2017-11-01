@@ -13,6 +13,8 @@ o	Mot de passe : 123456
 -	Chef d’équipe: 
 o	Login : ahcen
 o	Mot de passe : 123456
+
+
 Remarque : les noms de personne pris dans cet exemple ce sont les noms des étudiants, ils portent un Id HAL d’autre chercheurs (c’est juste un jeu d essaie).
 
 
